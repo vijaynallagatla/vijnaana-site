@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { Microscope, Menu } from "lucide-react";
+import { Flower2, Menu } from "lucide-react";
 import { useState } from "react";
 
 const Header = () => {
@@ -12,7 +12,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 bg-gradient-primary rounded-lg flex items-center justify-center">
-              <Microscope className="w-6 h-6 text-white" />
+              <Flower2 className="w-6 h-6 text-white" />
             </div>
             <div>
               <h1 className="font-bold text-lg text-foreground">Vijnaana</h1>
