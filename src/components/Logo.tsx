@@ -1,4 +1,4 @@
-import { Brain } from "lucide-react";
+import logoImage from "@/assets/vijnaana-logo.png";
 
 interface LogoProps {
   size?: "sm" | "md" | "lg";
@@ -27,8 +27,8 @@ const Logo = ({ size = "md", showText = true, className = "" }: LogoProps) => {
 
   return (
     <div className={`flex items-center gap-3 ${className}`}>
-      <div className={`${sizeClasses[size]} bg-gradient-primary rounded-lg flex items-center justify-center`}>
-        <Brain className={`${iconSizes[size]} text-white`} />
+      <div className={`${sizeClasses[size]} rounded-lg overflow-hidden`}>
+        <img src={logoImage} alt="Vijnaana logo" className="w-full h-full object-contain" />
       </div>
       {showText && (
         <div>
