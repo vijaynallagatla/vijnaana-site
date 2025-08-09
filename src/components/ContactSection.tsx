@@ -31,9 +31,9 @@ const ContactSection = () => {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground mb-2">General Inquiries</p>
-                <p className="font-medium text-foreground">info@medtechinnovations.com</p>
+                <p className="font-medium text-foreground">vijay@vijnaana.com</p>
                 <p className="text-muted-foreground mb-2 mt-4">Partnership Opportunities</p>
-                <p className="font-medium text-foreground">partnerships@medtechinnovations.com</p>
+                <p className="font-medium text-foreground">vijay@vijnaana.com</p>
               </CardContent>
             </Card>
 
@@ -46,9 +46,9 @@ const ContactSection = () => {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground mb-2">Main Office</p>
-                <p className="font-medium text-foreground">+1 (555) 123-4567</p>
+                <p className="font-medium text-foreground">+91 8147379935</p>
                 <p className="text-muted-foreground mb-2 mt-4">Research Department</p>
-                <p className="font-medium text-foreground">+1 (555) 123-4568</p>
+                <p className="font-medium text-foreground">+91 8147379935</p>
               </CardContent>
             </Card>
 
@@ -62,9 +62,8 @@ const ContactSection = () => {
               <CardContent>
                 <p className="text-muted-foreground mb-2">Headquarters</p>
                 <p className="font-medium text-foreground">
-                  123 Innovation Drive<br />
-                  San Francisco, CA 94158<br />
-                  United States
+                  Vijnaana Technologies Pvt Ltd<br /> 
+                  Bangalore, Karnataka, India
                 </p>
               </CardContent>
             </Card>

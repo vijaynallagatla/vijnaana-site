@@ -12,8 +12,8 @@ const Footer = () => {
                 <Microscope className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h3 className="font-bold text-lg">MedTech</h3>
-                <p className="text-xs text-background/70 -mt-1">Innovations</p>
+                <h3 className="font-bold text-lg">Vijnaana</h3>
+                <p className="text-xs text-background/70 -mt-1">Health Sciences</p>
               </div>
             </div>
             <p className="text-background/80 mb-6 leading-relaxed">
@@ -66,17 +66,17 @@ const Footer = () => {
               <div className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-primary mt-0.5" />
                 <div>
-                  <p className="text-background/80">123 Innovation Drive</p>
-                  <p className="text-background/80">San Francisco, CA 94158</p>
+                  <p className="text-background/80">456 Science Park Drive</p>
+                  <p className="text-background/80">San Francisco, CA 94105</p>
                 </div>
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-primary" />
-                <p className="text-background/80">+1 (555) 123-4567</p>
+                <p className="text-background/80">+1 (415) 555-0123</p>
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-primary" />
-                <p className="text-background/80">info@medtechinnovations.com</p>
+                <p className="text-background/80">info@vijnaana.com</p>
               </div>
             </div>
           </div>
@@ -85,7 +85,7 @@ const Footer = () => {
         {/* Bottom Section */}
         <div className="border-t border-background/20 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-background/60 text-sm">
-            © 2024 MedTech Innovations. All rights reserved.
+            © 2024 Vijnaana Health Sciences. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm">
             <a href="#" className="text-background/60 hover:text-background transition-colors">Privacy Policy</a>
