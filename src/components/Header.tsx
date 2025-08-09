@@ -15,7 +15,7 @@ const Header = () => {
               <Microscope className="w-6 h-6 text-white" />
             </div>
             <div>
-              <h1 className="font-bold text-lg text-foreground">MedTech</h1>
+              <h1 className="font-bold text-lg text-foreground">Vijnaana</h1>
               <p className="text-xs text-muted-foreground -mt-1">Innovations</p>
             </div>
           </div>
